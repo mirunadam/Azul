@@ -1,2 +1,2 @@
 # Azul
-A C implementation for the boardgame Azul
+C implementation for the boardgame Azul
